@@ -64,6 +64,9 @@ class Map(object):
     
     araucaria.addCityAdjacent(curitiba)
     araucaria.addCityAdjacent(contenda)
+
+    saoJose.addCityAdjacent(curitiba)
+    saoJose.addCityAdjacent(tijucas)
     
     contenda.addCityAdjacent(balsaNova)
     contenda.addCityAdjacent(araucaria)
